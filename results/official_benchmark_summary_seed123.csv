@@ -1,0 +1,6 @@
+method,best_validation_accuracy,best_epoch,total_time_seconds
+sgd_constant,80.86,29,1021.6104791164398
+sgd_cosine,87.36,30,1031.711658000946
+adamw_cosine,85.3,30,922.2135362625122
+official_schedule_free_sgd,85.74,30,889.9115517139435
+official_schedule_free_adamw,86.12,30,893.665789604187

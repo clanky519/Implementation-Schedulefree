@@ -1,0 +1,2 @@
+method,best_validation_accuracy,best_epoch,total_time_seconds
+schedule_free_sgd,81.9,30,957.8871684074402
